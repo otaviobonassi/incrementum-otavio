@@ -1,6 +1,6 @@
 ## 3-hour live coding challenge
 
-##Goals
+## Goals
 
 - 3 hours to create a LinkedIn-like platform
 - 3 pages: "home", "profile" and "local chat"
