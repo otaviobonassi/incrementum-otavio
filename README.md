@@ -1,7 +1,11 @@
-## Goals
+## 3-hour live coding challenge
 
-- Create a linkedixxn like plataform
-- Didn't invest too much time on making it aesthetic
+##Goals
+
+- 3 hours to create a LinkedIn-like platform
+- 3 pages: "home", "profile" and "local chat"
+- Didn't invest too much time in making it aesthetic
+- Use the same tech stack as provided in the job description (React, Redux, Material UI)
 
 ## Tools
 
@@ -11,7 +15,7 @@
 
 ## Scripts
 
-- `dev`/`start` - start dev server and open browser
+- `dev`/`start` - Start dev server and open the browser
 - `build` - build for production
 - `preview` - locally preview production build
 - `test` - launch test runner
